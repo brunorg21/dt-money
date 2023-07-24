@@ -1,0 +1,52 @@
+{
+  "transactions": [
+    {
+      "id": 1,
+      "description": "Desenvolvimento de site",
+      "type": "income",
+      "category": "Venda",
+      "price": 1400,
+      "createdAt": "2023-07-20T23:10:13.693Z"
+    },
+    {
+      "id": 2,
+      "description": "Compras no mercado",
+      "type": "outcome",
+      "category": "Alimentação",
+      "price": 50,
+      "createdAt": "2023-07-20T23:05:13.693Z"
+    },
+    {
+      "id": 3,
+      "description": "Curso",
+      "type": "outcome",
+      "category": "Educação",
+      "price": 1200,
+      "createdAt": "2023-07-20T23:05:13.693Z"
+    },
+    {
+      "category": "Venda",
+      "description": "Desenvolvimento de App",
+      "price": 10000,
+      "type": "income",
+      "createdAt": "2023-07-24T02:43:04.134Z",
+      "id": 4
+    },
+    {
+      "category": "Educação",
+      "description": "aaa",
+      "price": 12000,
+      "type": "income",
+      "createdAt": "2023-07-24T02:44:33.246Z",
+      "id": 5
+    },
+    {
+      "category": "Alimentação",
+      "description": "Pastel",
+      "price": 6,
+      "type": "outcome",
+      "createdAt": "2023-07-24T02:57:20.778Z",
+      "id": 6
+    }
+  ]
+}
